@@ -332,6 +332,23 @@ h5 {
     .contact-me {
         margin-top: 15px;
     }
+
+    .left-arrow, .rigt-arrow {
+        display: none;
+    }
+
+    .img-icons img {
+        width: 19%;
+        
+    }
+
+    .ed-img-icons img {
+        width: 21%;
+    }
+
+    .card {
+        padding: 18px;
+    }
 }
 
 /* Media END */
